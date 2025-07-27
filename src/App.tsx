@@ -15,10 +15,6 @@ export default function App() {
           What to Do Next
         </h1>
 
-        {/* Start Button */}
-        <button className="bg-white text-black px-12 py-4 rounded-full text-xl font-medium hover:bg-gray-100 transition-colors duration-200">
-          Start
-        </button>
       </div>
     </div>
   )
